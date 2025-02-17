@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello There!👋</h1>
 
 ###
 
@@ -62,16 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Guarczewski&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
